@@ -19,6 +19,9 @@ void main()
 		printf("¬ведите число s");
 		scanf("%d", &s);
 
+
+
+
 		if (s > 0)//no
 		{
 			printf("положительное");
